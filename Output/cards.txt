@@ -1,0 +1,7 @@
+U,5061251000000000409,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,1,,SSSPPPPCCC,,,,,Customer ID
+U,5061251000000000417,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,1,,SSSPPPPCCC,,,,,Customer ID
+U,5061251000000000425,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,1,,SSSPPPPCCC,,,,,Customer ID
+U,5061251000000000433,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,1,,SSSPPPPCCC,,,,,Customer ID
+U,5061251000000000441,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,1,,SSSPPPPCCC,,,,,Customer ID
+U,5061251000000000458,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,1,,SSSPPPPCCC,,,,,Customer ID
+U,5061251000000000466,000,FIDELITY_VERVE,20,6,,1803,,,,4,,,,,,,Opeoluwa,Stephen,Osunkoya,Osunkoya Opeoluwa Stephen,30 Royalty road,,Lagos,,,NIG,,1,,0,,SSSPPPPCCC,,,,,Customer ID
